@@ -16,6 +16,7 @@ public class ChangeScene : MonoBehaviour
     {
 
         SceneManager.LoadScene("UnityIAP");
+        Debug.Log("Escena de Pago");
 
     }
 }
